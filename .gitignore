@@ -1,0 +1,114 @@
+## Ignore Visual Studio temporary files, build results, and
+## common output folders.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (Visual Studio Code)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/*
+
+# Auto generated files (by Visual Studio)
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+# wwwroot/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+# The packages folder can be ignored unless you have a build or script step that refers to it.
+#*packages/*
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rdt/
+sdf/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/*
+
+# Local history for Visual Studio 2017 (VS 15)
+.vs/
+
+# Windows file system folders
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET dynamic databases
+*.mdf
+*.ldf
+*.ndf
+
+# Entity Framework
+*.edmx
+*.edmx.diagram
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# IIS Logs
+[Ii][Nn][Ee][Tt][Ll][Oo][Gg]/
+
+# Office temp files
+~$*
+*.tmp
+*.bak
+*.backup
+~*.*~
+
+# Web config transform files
+web.*.config
+
