@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{54332D0C-4498-40AA-AC30-25F3AE81B9BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{507EA38C-DD48-475C-BBFE-C82DCCA16D65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{54332D0C-4498-40AA-AC30-25F3AE81B9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54332D0C-4498-40AA-AC30-25F3AE81B9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54332D0C-4498-40AA-AC30-25F3AE81B9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507EA38C-DD48-475C-BBFE-C82DCCA16D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507EA38C-DD48-475C-BBFE-C82DCCA16D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507EA38C-DD48-475C-BBFE-C82DCCA16D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507EA38C-DD48-475C-BBFE-C82DCCA16D65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
