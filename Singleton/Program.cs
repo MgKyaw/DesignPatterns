@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Singleton;
+
+class Program 
+{
+    static void Main(string[] args)
+    {
+        President a = President.GetInstance();
+        President b = President.GetInstance();
+
+        System.Console.WriteLine(a == b); // True
+    }
+}
