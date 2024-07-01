@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Facade;
+
+class Program 
+{
+    static void Main(string[] args)
+    {
+        var computer = new Computer();
+        var computerFacade = new ComputerFacade(computer);
+
+        computerFacade.TurnOn();
+
+        computerFacade.TurnOff();
+    }
+}
