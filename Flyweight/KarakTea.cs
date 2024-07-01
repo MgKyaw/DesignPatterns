@@ -1,0 +1,6 @@
+namespace Flyweight;
+
+class KarakTea
+{
+    
+}
