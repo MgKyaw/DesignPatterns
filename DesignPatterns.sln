@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{08CF74A5-2DF7-4FE0-99C0-346DCBD79F4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{7565E7CA-DBBF-4CD3-BB5F-9659964DB0B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{08CF74A5-2DF7-4FE0-99C0-346DCBD79F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08CF74A5-2DF7-4FE0-99C0-346DCBD79F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08CF74A5-2DF7-4FE0-99C0-346DCBD79F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7565E7CA-DBBF-4CD3-BB5F-9659964DB0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7565E7CA-DBBF-4CD3-BB5F-9659964DB0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7565E7CA-DBBF-4CD3-BB5F-9659964DB0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7565E7CA-DBBF-4CD3-BB5F-9659964DB0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
